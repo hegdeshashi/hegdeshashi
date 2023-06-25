@@ -6,8 +6,7 @@ I'm Shashi</h1>
 **About Me**🤓
 - 🏫 Cloud- DevOps architect with 15+ years of experience in IT industry
 - 📫 You can reach me at: hegdeshashi@gmail.com
-- <a href="https://www.linkedin.com/in/hegdeshashi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hegdeshashi" height="30" width="40" /></a>
-  
+ 
 
 
 ### DevOps Techstack 
