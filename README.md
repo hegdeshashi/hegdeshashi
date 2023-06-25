@@ -2,6 +2,9 @@
 **I'm Shashi**, 
 Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.
 
+About Me🤓
+🏫 Cloud- DevOps arechitect with 15+ years of experience in IT industry
+📫 You can reach me at: hegdeshashi@gmail.com
 
 Here are some ideas to get you started:
 
