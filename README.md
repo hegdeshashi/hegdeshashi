@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![Profile views](https://gpvc.arturio.dev/[hegdeshashi)
+- https://gpvc.arturio.dev/github-profile-views-counter
+
+- 
 **DevOps Techstack**
   -  https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667
