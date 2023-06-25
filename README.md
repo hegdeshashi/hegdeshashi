@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![Profile views](https://gpvc.arturio.dev/[hegdeshashi)
-- https://gpvc.arturio.dev/github-profile-views-counter
+![Profile views](https://gpvc.arturio.dev/[hegdeshashi])
+
 
 - 
 **DevOps Techstack**
