@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 I'm Shashi</h1>
-<h3 align="left"> Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
+<h3 align="left"> Cloud & DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
 
 **About Me**🤓
 - 🏫 Cloud- DevOps architect with 15+ years of experience in IT industry
